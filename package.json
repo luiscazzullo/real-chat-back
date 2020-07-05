@@ -4,7 +4,7 @@
   "description": "A real time chat app with socket io, Node and React",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "Luis Gabriel Cazzullo",
   "license": "ISC",
