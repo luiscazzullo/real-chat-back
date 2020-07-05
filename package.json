@@ -1,0 +1,17 @@
+{
+  "name": "real-time-chat-app",
+  "version": "1.0.0",
+  "description": "A real time chat app with socket io, Node and React",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Luis Gabriel Cazzullo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
